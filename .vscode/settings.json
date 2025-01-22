@@ -1,9 +1,0 @@
-{
-  "eslint.workingDirectories": [
-    "ui"
-  ],
-  "explorer.autoReveal": "focusNoScroll",
-  "cSpell.words": [
-    "grecaptcha"
-  ]
-}
